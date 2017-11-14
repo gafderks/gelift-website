@@ -262,7 +262,7 @@
                         </tr>
                     </tbody>
                 </table>
-                <small>Red shading means that this team was disqualified for the shaded section.<small>
+                <small>Red shading means that this team was disqualified for the shaded section.</small>
 				</article>
 			
 			
