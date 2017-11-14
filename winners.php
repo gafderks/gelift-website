@@ -71,9 +71,9 @@
 						</tr>
                         <tr>
                             <td style="text-align: right; vertical-align: middle;">
-								<a href="https://gewis.nl/member/7226" target="_blank" title="Laura's profile">
-									<span class="winner-firstname">Laura</span>
-									<span class="winner-surname">Kuntze</span>
+								<a href="https://gewis.nl/member/7130" target="_blank" title="Levi's profile">
+									<span class="winner-firstname">Levi</span>
+									<span class="winner-surname">Prikken</span>
 								</a>
                             </td>
                             <td style="width: 100px; text-align: center;">
@@ -81,9 +81,9 @@
                                 <strong>13 h 33 min</strong>
                             </td>
                             <td style="text-align: left; vertical-align: middle;">
-								<a href="https://gewis.nl/member/7130" target="_blank" title="Levi's profile">
-									<span class="winner-firstname">Levi</span>
-									<span class="winner-surname">Prikken</span>
+								<a href="https://gewis.nl/member/7226" target="_blank" title="Laura's profile">
+									<span class="winner-firstname">Laura</span>
+									<span class="winner-surname">Kuntze</span>
 								</a>
                             </td>
                         </tr>
@@ -278,9 +278,9 @@
 						</tr>
                         <tr>
                             <td style="text-align: right; vertical-align: middle;">
-								<a href="https://gewis.nl/member/8091" target="_blank" title="Bart's profile">
-									<span class="winner-firstname">Bart</span>
-									<span class="winner-surname">van de Hesseweg</span>
+								<a href="https://gewis.nl/member/8413" target="_blank" title="Ruben's profile">
+									<span class="winner-firstname">Ruben</span>
+									<span class="winner-surname">Couprie</span>
 								</a>
                             </td>
                             <td style="width: 100px; text-align: center;">
@@ -288,9 +288,9 @@
                                 <strong>15 h 41 min</strong>
                             </td>
                             <td style="text-align: left; vertical-align: middle;">
-								<a href="https://gewis.nl/member/8413" target="_blank" title="Ruben's profile">
-									<span class="winner-firstname">Ruben</span>
-									<span class="winner-surname">Couprie</span>
+								<a href="https://gewis.nl/member/8091" target="_blank" title="Bart's profile">
+									<span class="winner-firstname">Bart</span>
+									<span class="winner-surname">van de Hesseweg</span>
 								</a>
                             </td>
                         </tr>
@@ -342,9 +342,9 @@
 						</tr>
                         <tr>
                             <td style="text-align: right; vertical-align: middle;">
-								<a href="https://gewis.nl/member/7069" target="_blank" title="Niels's profile">
-									<span class="winner-firstname">Niels</span>
-									<span class="winner-surname">de Jong</span>
+								<a href="https://gewis.nl/member/7218" target="_blank" title="Aishwarya's profile">
+									<span class="winner-firstname">Aishwarya</span>
+									<span class="winner-surname">Suresh</span>
 								</a>
                             </td>
                             <td style="width: 100px; text-align: center;">
@@ -352,9 +352,9 @@
                                 <strong>9 h 32 min</strong>
                             </td>
                             <td style="text-align: left; vertical-align: middle;">
-								<a href="https://gewis.nl/member/7218" target="_blank" title="Aishwarya's profile">
-									<span class="winner-firstname">Aishwarya</span>
-									<span class="winner-surname">Suresh</span>
+								<a href="https://gewis.nl/member/7069" target="_blank" title="Niels's profile">
+									<span class="winner-firstname">Niels</span>
+									<span class="winner-surname">de Jong</span>
 								</a>
                             </td>
                         </tr>
