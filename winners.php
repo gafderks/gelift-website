@@ -295,7 +295,138 @@
                             </td>
                         </tr>
                     </tbody>
-                </table>    
+                </table>
+
+                    <h3>Score list</h3>
+                    <table class="scorelist table table-sm">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Team members</th>
+                            <th>Depart <abbr title="Eindhoven">E</abbr>-<abbr title="Frankfurt">F</abbr></th>
+                            <th>Arrive <abbr title="Eindhoven">E</abbr>-<abbr title="Frankfurt">F</abbr></th>
+                            <th>Depart <abbr title="Frankfurt">F</abbr>-<abbr title="Prague">P</abbr></th>
+                            <th>Arrive <abbr title="Frankfurt">F</abbr>-<abbr title="Prague">P</abbr></th>
+                            <th>Bonus time</th>
+                            <th>Total time</th>
+                            <th><abbr title="Disqualified">DQ</abbr></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Bart &amp; Ruben</td>
+                            <td>13:15</td>
+                            <td>20:35</td>
+                            <td>08:53</td>
+                            <td>18:04</td>
+                            <td>0:50</td>
+                            <td>15:41</td>
+                            <td><i class="fa fa-check-circle-o" aria-hidden="true"></i></td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Armand &amp; Bram</td>
+                            <td>09:32</td>
+                            <td>17:25</td>
+                            <td>09:30</td>
+                            <td>18:11</td>
+                            <td>0:50</td>
+                            <td>15:44</td>
+                            <td><i class="fa fa-check-circle-o" aria-hidden="true"></i></td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>Sven &amp; Celine</td>
+                            <td>11:05</td>
+                            <td>16:55</td>
+                            <td>09:23</td>
+                            <td>20:10</td>
+                            <td>0:20</td>
+                            <td>16:17</td>
+                            <td><i class="fa fa-check-circle-o" aria-hidden="true"></i></td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>Amber &amp; Saskia</td>
+                            <td>11:06</td>
+                            <td>19:30</td>
+                            <td>08:45</td>
+                            <td>22:00</td>
+                            <td>0:20</td>
+                            <td>21:19</td>
+                            <td><i class="fa fa-check-circle-o" aria-hidden="true"></i></td>
+                        </tr>
+                        <tr>
+                            <td>5</td>
+                            <td>Ruben &amp; Thijs</td>
+                            <td>13:35</td>
+                            <td>21:30</td>
+                            <td>08:45</td>
+                            <td>23:45</td>
+                            <td>1:25</td>
+                            <td>21:30</td>
+                            <td><i class="fa fa-check-circle-o" aria-hidden="true"></i></td>
+                        </tr>
+                        <tr>
+                            <td>6</td>
+                            <td>Henk &amp; Frederique</td>
+                            <td>09:00</td>
+                            <td>22:00</td>
+                            <td>09:15</td>
+                            <td>22:00</td>
+                            <td>0:30</td>
+                            <td>25:15</td>
+                            <td><i class="fa fa-check-circle-o" aria-hidden="true"></i></td>
+                        </tr>
+                        <tr>
+                            <td>7</td>
+                            <td>Amber &amp; Robin</td>
+                            <td>13:01</td>
+                            <td>19:16</td>
+                            <td class="dq">09:32</td>
+                            <td class="dq">23:59</td>
+                            <td>0:00</td>
+                            <td>20:42</td>
+                            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+                        </tr>
+                        <tr>
+                            <td>8</td>
+                            <td>Floris &amp; Dionne</td>
+                            <td>13:20</td>
+                            <td>19:49</td>
+                            <td class="dq">08:45</td>
+                            <td class="dq">23:59</td>
+                            <td>0:00</td>
+                            <td>21:43</td>
+                            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+                        </tr>
+                        <tr>
+                            <td>9</td>
+                            <td>Jeroen &amp; Anja</td>
+                            <td>17:45</td>
+                            <td>05:17</td>
+                            <td class="dq">08:37</td>
+                            <td class="dq">23:59</td>
+                            <td>0:00</td>
+                            <td>26:54</td>
+                            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+                        </tr>
+                        <tr>
+                            <td>10</td>
+                            <td>Bor, Jelte &amp; Geert</td>
+                            <td>11:15</td>
+                            <td>22:25</td>
+                            <td class="dq">08:58</td>
+                            <td class="dq">08:15</td>
+                            <td>0:35</td>
+                            <td>33:52</td>
+                            <td><i class="fa fa-times" aria-hidden="true"></i></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <small>Red shading means that this team was disqualified for the shaded section.</small>
+                
 				</article>
 			
 				<article>
