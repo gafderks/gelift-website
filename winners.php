@@ -120,12 +120,12 @@
                         <tr>
                             <td>2</td>
                             <td>Ruben &amp; Rutger</td>
-                            <td>17:37</td>
+                            <td>16:37</td>
                             <td>23:37</td>
                             <td>09:23</td>
                             <td>18:37</td>
                             <td>1:10</td>
-                            <td>14:04</td>
+                            <td>15:04</td>
                             <td><i class="fa fa-check-circle-o" aria-hidden="true"></i></td>
                         </tr>
                         <tr>
